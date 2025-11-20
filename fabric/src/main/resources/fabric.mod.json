@@ -16,10 +16,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "de.montague247.easybuilder.fabric.ExampleModFabric"
+      "de.montague247.easybuilder.fabric.EasyBuilderModFabric"
     ],
     "client": [
-      "de.montague247.easybuilder.fabric.client.ExampleModFabricClient"
+      "de.montague247.easybuilder.fabric.client.EasyBuilderModFabricClient"
     ]
   },
   "mixins": [
